@@ -3,6 +3,8 @@
 ### Overview
 This tool uses an LLM (Gemini) to generate or fix VEX/Python code for Houdini, and to answer technical questions.
 
+Youtube Tutorial Demo: https://www.youtube.com/watch?v=jDW2JvsTerM&t=674s
+
 ---
 
 ### Run Over
